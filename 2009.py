@@ -78,12 +78,12 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 6, 1, 1, 10 ,9)
+g= datetime.datetime(2023, 5, 1, 1, 10 ,9)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\033[1;32m تم ايقاف الاداه راسل المطور نادر لتفعيل ')
  time.sleep(1)
- print('\033[1;31m المطور نادر @N_P_Q_D_bot')
+ print('\033[1;31m المطور نادر @N_1_N_2')
  time.sleep(1)
  print('\033[1;32m شروحات نادر')
  time.sleep(1)
